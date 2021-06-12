@@ -1,16 +1,21 @@
-### Hi there 👋
+<div>
+    <img 
+        src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjangwonyoon%2Fhit-counter&count_bg=%236495ED&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+    <img 
+        src="https://img.shields.io/github/followers/alsgpwns?style=social"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</div>
 
-<!--
-**alsgpwns/alsgpwns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-000000?style=flat-square&logo=github&link=https://velog.io/@jangwonyoon/series)](https://blog.naver.com/5550304)
+[![gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:jimmy53120488@gmail.com)](mailto:yoonajangwon94@gmail.com)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/profile.php?id=100004439202207)](https://m.facebook.com/profile.php?id=100013255511571&ref=content_filter)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/jangwon_diego_yoon/)](https://www.instagram.com/min_dalpong/)
+
+### Main Skills
+[![nodejs Badge](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](#)
+[![mysql Badge](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](#)
+
