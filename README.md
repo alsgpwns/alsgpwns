@@ -27,6 +27,6 @@ I am a developer who is interested in Spring Framework
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alsgpwns&show_icons=true&theme=cobalt)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alsgpwns&show_icons=true&theme=synthwave)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alsgpwns&layout=compact)](https://github.com/alsgpwns/github-readme-stats)
 
