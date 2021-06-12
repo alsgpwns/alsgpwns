@@ -7,6 +7,11 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </div>
 
+
+### Hello world!&nbsp; <img src="https://miro.medium.com/max/384/0*A6EB_Ykks5bPp_rM.gif" width="35px"> </em>  
+
+I am a developer who is interested in Spring Framework 
+
 <br />
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-000000?style=flat-square&logo=github&link=https://velog.io/@jangwonyoon/series)](https://blog.naver.com/5550304)
