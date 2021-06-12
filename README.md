@@ -15,7 +15,6 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/jangwon_diego_yoon/)](https://www.instagram.com/min_dalpong/)
 
 ### Main Skills
-[![nodejs Badge](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](#)
 [![mysql Badge](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](#)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alsgpwns&show_icons=true&theme=cobalt)
