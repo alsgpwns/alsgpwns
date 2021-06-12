@@ -15,7 +15,12 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-ff69b4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/jangwon_diego_yoon/)](https://www.instagram.com/min_dalpong/)
 
 ### Main Skills
+<a href="https://github.com/alsgpwns" target="_blank"><img src="https://img.shields.io/badge/java-20c997?style=flat-square&logo=java&logoColor=white"/></a>
+<a href="https://github.com/alsgpwns" target="_blank"><img src="https://img.shields.io/badge/spring-20c997?style=flat-square&logo=spring&logoColor=white"/></a>
 [![mysql Badge](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](#)
+
+
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alsgpwns&show_icons=true&theme=cobalt)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alsgpwns&layout=compact)](https://github.com/alsgpwns/github-readme-stats)
