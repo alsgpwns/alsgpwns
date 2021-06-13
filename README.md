@@ -2,9 +2,6 @@
     <img 
         src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falsgpwns%2Fhit-counter&count_bg=%23FF385C&title_bg=%23555555&icon=&icon_color=%23FF385C&title=hits&edge_flat=false"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-    <img 
-        src="https://img.shields.io/github/followers/alsgpwns"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </div>
 
 
